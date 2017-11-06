@@ -1,0 +1,9 @@
+{
+  "name": "ezhack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "hack nodejs",
+  "repository": "https://github.com/danwime/ezhack.git",
+  "author": "demon <demon@danwi.me>"
+}
